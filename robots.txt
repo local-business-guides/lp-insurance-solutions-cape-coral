@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/sitemap.xml
+Sitemap: https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/news-sitemap.xml

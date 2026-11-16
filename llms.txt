@@ -24,8 +24,9 @@
 - [Insurance Quotes Cape Coral | LP Insurance Solutions](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/insurance-quotes-cape-coral/): Compare insurance choices with personal guidance from a local agency in Cape Coral. Request Insurance Quotes Cape Coral from LP Insurance Solutions today.
 - [Top Medicare Enrollment in Cape Coral | LP Insurance](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/top-medicare-enrollment-in-cape-coral/): Get guidance on Top Medicare Enrollment in Cape Coral, review your needs with LP Insurance Solutions, and call today to discuss a useful next step.
 - [Best Medicare Enrollment Cape Coral | LP Insurance](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/best-medicare-enrollment-cape-coral/): Explore Best Medicare Enrollment Cape Coral with local guidance from LP Insurance Solutions. Call today to discuss your coverage questions and next steps.
-- [Top Rated Medicare Enrollment Cape Coral](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/top-rated-medicare-enrollment-cape-coral/): Top Rated Medicare Enrollment Cape Coral support to prepare questions and review options with LP Insurance Solutions. Call our local team to talk.
-- [Licensed Medicare Enrollment Cape Coral](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/licensed-medicare-enrollment-cape-coral/): Licensed Medicare Enrollment Cape Coral help from a local agent. Review your questions with LP Insurance Solutions and call to discuss next steps.
+
+## Newsroom
+- [LP Insurance Solutions Shares Medicare Enrollment Cape Coral Resources](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/news/2026-11-16-lp-insurance-solutions-shares-medicare-enrollment/): LP Insurance Solutions published a Medicare enrollment guide for Cape Coral, with a related YouTube video, podcast episode and SoundCloud audio. (2026-11-16)
 
 ## Pages
 - [Medicare Enrollment in Cape Coral, Florida](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/): Get help reviewing Medicare options and other insurance needs with a local Cape Coral agency that serves you in English or Spanish. Call +1239-829-0200.
@@ -34,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/lp-insurance-solutions-cape-coral/news/rss.xml)
 - [Main resource site](https://lp-insurance-cape-coral.localwebsites.chatgpt.site)
